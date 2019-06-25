@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skipped="0" tests="1" time="10.351"><testcase classname="TestCases.test_login1" file="TestCases/test_login1.py" line="48" name="test_demo" time="0.004"><failure message="assert False">@pytest.mark.smoke1
+    @pytest.mark.usefixtures(&quot;demo&quot;)
+    def test_demo():
+        print(&quot;22222222222&quot;)
+&gt;       assert False
+E       assert False
+
+TestCases/test_login1.py:53: AssertionError</failure></testcase></testsuite>
